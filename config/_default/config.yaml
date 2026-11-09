@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: ONOFRE-4 # Website name
-baseURL: 'https://onofre4.tel.uva.es' # Website URL
+title: AGINPLACE # Website name
+baseURL: 'https://aginplace.tel.uva.es' # Website URL
 canonifyURLs: false
 relativeURLs: false
 
