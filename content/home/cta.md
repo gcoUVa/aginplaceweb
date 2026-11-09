@@ -9,9 +9,7 @@ design:
   columns: '1'
 ---
 <div style="text-align: justify"> 
-ONOFRE-4 aims to develop efficient planning and management mechanisms for network infrastructures equipped with computing
-resources. The focus is on providing support for connected, reliable and secure mobility, with special consideration given to the
-interrelation between networks operated by different actors.
+The purpose of the AGINPLACE project is to promote the development of an innovative environment that allows responding to the great challenges posed by non-collaborative people with mental health disorders so they can live autonomously in their homes for longer and with quality of life, delaying or even avoiding their institutionalization. 
 </div>
 
 <br>

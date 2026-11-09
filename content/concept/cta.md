@@ -1,6 +1,6 @@
 ---
 title: Concept
-subtitle: Overview of ONOFRE-4
+subtitle: Overview of AGINGPLACE
 widget: blank
 headless: true
 active: true
@@ -10,46 +10,25 @@ design:
 ---
 <div style="text-align: justify"> 
 
-<b>ONOFRE-4</b> (Multi-stakeholder Network Planning and Orchestration for Reliable and Secure Connected Mobility) aims to develop efficient planning and management mechanisms for network infrastructures equipped with computing resources. The focus is on providing support for connected, reliable and secure mobility, with special consideration given to the interrelation between networks operated by different actors.<p>
+The purpose of the <b>AGINGPLACE</b> project is to promote the development of an innovative environment that allows responding to the great challenges posed by non-collaborative people with mental health disorders so they can live autonomously in their homes for longer and with quality of life, delaying or even avoiding their institutionalization. The main barrier is that they are not aware about their disease and dysfunctionality, and consequently reject help without any awareness about their risks and limitations. This target group is specially challenging as they do not tend to collaborate nor to trust almost on nobody or anything. It is the case of mental disorders such as frontal dementia or psychotic disorders in dementia.<p>
 
-<img src="logo_cochetransp.png" style="float:left; height:200px; margin-top:20px; margin-right:20px; margin-bottom:20px">
-In concrete terms, the project starts from the assumption that to fully exploit the potential of connected mobility in general, it is essential to
-have <b>robust and reliable communication infrastructures</b>, both wired and wireless, <b>equipped with computing resources</b>, and supported by
-<b>effective orchestration procedures</b>. It also highlights the importance of considering <b>multi-operator and even multi-stakeholder scenarios</b>. As
-vehicles move across different geographical regions, networks managed by different operators and their associated computing resources
-should facilitate seamless connectivity and uninterrupted access to subscribed services, thus contributing to a more connected and
-cohesive mobility ecosystem. In addition, communication and computing infrastructures of different operators, and even of other actors
-such as public administrations, companies or industries, may exist in the same geographical area. Therefore, the interrelation of these
-infrastructures, enabling a shared use of resources under certain conditions, and articulated through smart contracts, will enhance
-efficiency in service provision and create new opportunities for operators and other stakeholders.
+The main objective of AGINPLACE is to <b>promote the individual and social well-being of people living with mental health disorders aging in place, autonomously, in their own houses</b>, avoiding or delaying their institutionalization. In order to achieve this aim AGINPLACE will take special care to involve this target group and related stakeholders by setting up an open innovation ecosystem based on systematic user co-creation approaches to fill the gap between techbased solutions and the user engagement. Based on the requirements set by this target group and their context, AGINPLACE will advance in models, sensors’ distribution, signal design and processing algorithms to enhance the detection of observables. It will incorporate AI engines to support decision-making through analysis of patient data, building computer systems that can learn patterns from a training data set, and apply those patterns to new data with the prospect of enhancing decision-making. Finally, AGINPLACE will provide a thorough analysis on the safety, efficacy, acceptability, feasibility, and cost-effectiveness of digital technology to provide evidence of digital health interventions.
 <p></p>
-<b>ONOFRE-4</b> will advance on:<br>
+<p><b>Based on the project hypothesis and the state of the art, AGINPLACE has set the following general objectives:</b></p>
 <ul>
-<li>(1) providing efficient planning and management mechanisms for wired and wireless network infrastructures
-equipped with computing resources, </li>
-<li>(2) optimizing the use of multiband technologies and coherent pluggable transceivers in optical
-networks, along with a focus on emerging standards on access networks, </li>
-<li>(3) optimizing the co-existence of multiple radio access
-technologies (RAT) with special emphasis on recently introduced techniques such as multi-channel operation (MCO), </li>
-<li>(4) optimizing the services
-offered by the network and its computing infrastructure, exploiting orchestration, federated learning and computation offloading in multistakeholder
-environments, </li>
-<li>(5) improving the reliability and security of the network architecture by including identity management and
-quantum key distribution (QKD), </li>
-</ul> and all with a focus on improving various use cases related to mobility.
+<li><b>O1.</b> To fully understand the unmet needs of people with cognitive and mental disorders, especially of those non-collaboratives and living in rural areas.</li>
+<li><b>O2.</b> To address the user engagement and tech acceptability during the implementation of the digital tools among the different living labs, also considering their families, caregivers, and professionals.</li>
+<li><b>O3.</b> To develop digital technology and its applications under the legal, ethical, and regulatory frameworks to establish the baseline over which the next stages will be built.</li>
+<li><b>O4.</b> To develop and deploy user location and activity detection sensory prototypes, with special emphasis in the design of the physical layer, signal processing techniques, and device-free or passive strategies.</li>
+<li><b>O5.</b> To develop sound-based systems able to work at home for the early and continued analysis of aging related health conditions such as activity monitoring, lower urinary tract problems and sleep quality.</li>
+<li><b>O6.</b> To integrate multi-modalities (such as the speech and the user behavior pattern, cameras will not be included because most users used refuse them) in an AI based system to supervise the user’s emotional states introducing multimodal feature fusion level, and decision level fusion.</li>
+<li><b>O7.</b> To analyze the feasibility, implementation and approach of efficacy and costeffectiveness of both real-time and predictive analytics mental health applications.</li>
 <p></p>
-<p><b>Objectives:</b></p>
-
-<ul>
-<li><b>O1.</b> To propose planning and allocation mechanisms for core, metro and access optical networks, as well as IA-based network automation techniques.</li>
-<li><b>O2.</b> To extend the optimization of multi-RAT operation, including recently introduced technologies.</li>
-<li><b>O3.</b> To ensure efficient and reliable resource management in complex network infrastructures composed of multiple stakeholders. </li>
-<li><b>O4.</b> To enhance the security of the architecture by incorporating identity management, DLT and QKD.</li>
-<li><b>O5.</b> To optimize and validate services and use cases related to connected vehicles.</li>
+The fiGure below shows the mapping of the six WPs into the four proposed stages and through the two approaches: testing innovative technologies and prototypes in three labs, and those validated by the stakeholders adding AI techniques with long-term follow-up data in three living labs.  
 </ul>
 <p></p>
 <center> 
-<img src="onofre4_wp_small.png" style="max-width:600px;width:100%">
+<img src="LOGO_AGING.png" style="max-width:600px;width:100%">
 </center>
 </div>
 
