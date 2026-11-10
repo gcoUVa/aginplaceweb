@@ -56,11 +56,9 @@ design:
 ---
 
 <div style="text-align: center"> 
-<a href="mailto:ignacio.demiguel@uva.es">Ignacio de Miguel</a><br>
-<a href="mailto:noemer@uva.es">Noemí Merayo</a>
+<a href="mailto:alfonso.bahillo@uva.es">Alfonso Bahillo </a><br>
 <h1>Email</h1>
-<a href="mailto:ignacio.demiguel@uva.es">ignacio.demiguel@uva.es</a><br>
-<a href="mailto:noemer@uva.es">noemer@uva.es</a>
+<a href="mailto:alfonso.bahillo@uva.es">alfonso.bahillo@uva.es</a><br>
 <h1>Postal Address</h1>
 <div>
 E.T.S.I. de Telecomunicación - Univ. de Valladolid<br>
@@ -69,6 +67,6 @@ Paseo de Belén 15<br>
 47011 Valladolid, SPAIN
 </div>
 <h1>Telephone</h1>
-<a href="tel:+34983185574">+34-983-185574</a>
+<a href="tel:+34983185571">+34-983-185-571 </a>
 </div>
 

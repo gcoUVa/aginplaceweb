@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Intelligent Systemas and Telematics Group (University of Murcia)
+title: Instituto de Investigación Biomédica de Salamanca (Universidad de Salamanca)
 stud:
 # Is this the primary user of the site?
 superuser: false
@@ -8,14 +8,14 @@ superuser: false
 weight: 3
 
 # Role/position
-role: <a href="https://curie.um.es/curie/servlet/um.curie.ginvest.ControlGrinvest?accion=fichainvestigador&dept_codigo=E096&grin_codigo=02&grin_nombre=SISTEMAS%20INTELIGENTES%20Y%20TELEM%C3%uFFFDTICA&d=EA641347CE5593612D1D3BB52DFCCBAD">Antonio F. Skarmeta Gómez</a> <br> <a href="https://webs.um.es/ramonsanchez/miwiki/doku.php">Ramón J. Sánchez Iborra</a> <br> Subproject - Multi-stakeholder Network Planning and Orchestration for Reliable and Secure Connected Mobility - Zero touch Network and Service Management and Security (ONOFRE-4-UMU). Ref. PID2023-148104OB-C43
+role: <a href="https://produccioncientifica.usal.es/investigadores/57640/detalle">Manuel Ángel Franco Martín</a> <br> Subproject - Implementation patient centered of technology for supporting community care and monitoring on site. Ref. PID2023-146254OB-C42
 
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
 #    url: ''
 
-externalLink: "https://curie.um.es/curie/catalogo-ficha.du?seof_codigo=1&perf_codigo=10&peva_cod=006&titulo=Ense%C3%B1anzas+T%C3%A9cnicas&sec_codigo=&cods=E096*02"
+externalLink: "https://produccioncientifica.usal.es/"
 openExternalLinkInNewTab: false
 
 # Social/Academic Networking
@@ -26,11 +26,11 @@ social:
   - icon: envelope
     icon_pack: fas
     name: 'Email'
-    link: 'mailto:skarmeta@um.es'
+    link: 'mailto:mfranco@usal.es'
   - icon: phone
     icon_pack: fa
     name: 'Phone'
-    link: 'tel:+34868884607'
+    link: 'tel:'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen

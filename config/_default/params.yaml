@@ -43,7 +43,7 @@ header:
 # Site footer
 
 footer:
-  image: [assets/media/logo.png]
+  image: [assets/media/LOGO_AGINGPLACE_AEI.png]
   copyright:
     notice: '© {year} - All Rights Reserved'
     license:

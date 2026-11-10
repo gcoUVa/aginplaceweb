@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Telecommunication Networks Engineering Group (Technical University of Cartagena)
+title: Escuela Politécnica Superior  (Universidad de Alcalá)
 stud:
 # Is this the primary user of the site?
 superuser: false
@@ -8,14 +8,14 @@ superuser: false
 weight: 2
 
 # Role/position
-role: <a href="https://girtel.upct.es/~eegea/">Esteban Egea López</a> <br> <a href="https://girtel.upct.es/~vbeltran/">Victoria Beltrán Martínez</a> <br> Subproject - Multi-stakeholder Network Planning and Orchestration for Reliable and Secure Connected Mobility - Multi-RAT Planning and Operation (ONOFRE-4-UPCT). Ref. PID2023-148104OB-C42
+role: <a href="https://portalcientifico.uah.es/investigadores/151099/detalle">María del Carmen Pérez Rubio </a> <br>  Subproject -  Localization and non-intrusive sensing techniques to help people with mental health disorders aging in place. Ref. PID2023-146254OB-C43
 
 # Organizations/Affiliations
 #organizations:
 #  - name: Stanford University
 #    url: ''
 
-externalLink: "https://girtel.upct.es/"
+externalLink: "https://escuelapolitecnica.uah.es/es/"
 openExternalLinkInNewTab: false
 
 # Social/Academic Networking
@@ -26,11 +26,11 @@ social:
   - icon: envelope
     icon_pack: fas
     name: 'Email'
-    link: 'mailto:esteban.egea@upct.es'
+    link: 'mailto:mcarmen.perezr@uah.es'
   - icon: phone
     icon_pack: fa
     name: 'Phone'
-    link: 'tel:+34968326553'
+    link: 'tel:+34918856558'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
