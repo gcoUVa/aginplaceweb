@@ -1,6 +1,6 @@
 ---
 title: Concept
-subtitle: Overview of AGINGPLACE
+subtitle: Overview of AGINPLACE
 widget: blank
 headless: true
 active: true
@@ -10,7 +10,7 @@ design:
 ---
 <div style="text-align: justify"> 
 
-The purpose of the <b>AGINGPLACE</b> project is to promote the development of an innovative environment that allows responding to the great challenges posed by non-collaborative people with mental health disorders so they can live autonomously in their homes for longer and with quality of life, delaying or even avoiding their institutionalization. The main barrier is that they are not aware about their disease and dysfunctionality, and consequently reject help without any awareness about their risks and limitations. This target group is specially challenging as they do not tend to collaborate nor to trust almost on nobody or anything. It is the case of mental disorders such as frontal dementia or psychotic disorders in dementia.<p>
+The purpose of the <b>AGINPLACE</b> project is to promote the development of an innovative environment that allows responding to the great challenges posed by non-collaborative people with mental health disorders so they can live autonomously in their homes for longer and with quality of life, delaying or even avoiding their institutionalization. The main barrier is that they are not aware about their disease and dysfunctionality, and consequently reject help without any awareness about their risks and limitations. This target group is specially challenging as they do not tend to collaborate nor to trust almost on nobody or anything. It is the case of mental disorders such as frontal dementia or psychotic disorders in dementia.<p>
 
 The main objective of AGINPLACE is to <b>promote the individual and social well-being of people living with mental health disorders aging in place, autonomously, in their own houses</b>, avoiding or delaying their institutionalization. In order to achieve this aim AGINPLACE will take special care to involve this target group and related stakeholders by setting up an open innovation ecosystem based on systematic user co-creation approaches to fill the gap between techbased solutions and the user engagement. Based on the requirements set by this target group and their context, AGINPLACE will advance in models, sensors’ distribution, signal design and processing algorithms to enhance the detection of observables. It will incorporate AI engines to support decision-making through analysis of patient data, building computer systems that can learn patterns from a training data set, and apply those patterns to new data with the prospect of enhancing decision-making. Finally, AGINPLACE will provide a thorough analysis on the safety, efficacy, acceptability, feasibility, and cost-effectiveness of digital technology to provide evidence of digital health interventions.
 <p></p>
@@ -28,7 +28,7 @@ The fiGure below shows the mapping of the six WPs into the four proposed stages 
 </ul>
 <p></p>
 <center> 
-<img src="LOGO_AGING.png" style="max-width:600px;width:100%">
+<img src="LOGO_AGIN.png" style="max-width:600px;width:100%">
 </center>
 </div>
 

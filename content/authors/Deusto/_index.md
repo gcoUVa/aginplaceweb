@@ -15,7 +15,7 @@ role: <a href="https://www.deusto.es/en/home/we-are-deusto/team/researchers/1695
 #  - name: Stanford University
 #    url: ''
 
-externalLink: "https://www.deusto.es/es/inicio/somos-deusto/facultades/ingenieria"
+externalLink: "https://deustotech.deusto.es/?_gl=1%2Amfjex6%2A_up%2AMQ..%2A_ga%2AMzI1MDAzMDc1LjE3OTQzMDMwOTg.%2A_ga_ZVJ1XGGKPL%2AczE3OTQzMDMwOTckbzEkZzEkdDE3OTQzMDMxNDUkajEyJGwwJGgw"
 openExternalLinkInNewTab: false
 
 # Social/Academic Networking

@@ -8,7 +8,7 @@ superuser: false
 weight: 1
 
 # Role/position
-role: <a href="https://investigacion.uva.es/SPPC/researcher?lang=es&researcherId=1497">Alfonso Bahillo</a> <br>  Subproject - IoT and multimodal AI based systems for the early and continued analysis of lower urinary tract problems and emotional states to help people with mental health disorders aging in place (AGINGPLACE). Ref. PID2023-146254OB-C41
+role: <a href="https://investigacion.uva.es/SPPC/researcher?lang=es&researcherId=1497">Alfonso Bahillo</a> <br>  Subproject - IoT and multimodal AI based systems for the early and continued analysis of lower urinary tract problems and emotional states to help people with mental health disorders aging in place. Ref. PID2023-146254OB-C41
 
 # Organizations/Affiliations
 #organizations:
