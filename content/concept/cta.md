@@ -28,7 +28,7 @@ The fiGure below shows the mapping of the six WPs into the four proposed stages 
 </ul>
 <p></p>
 <center> 
-<img src="LOGO_AGIN.png" style="max-width:600px;width:100%">
+<img src="AGIN.png" style="max-width:600px;width:100%">
 </center>
 </div>
 
