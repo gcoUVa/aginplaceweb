@@ -43,7 +43,7 @@ header:
 # Site footer
 
 footer:
-  image: [assets/media/Logo_AGINPLACE_AEI.png]
+  image: [assets/media/logo_AGINPLACE.png]
   copyright:
     notice: '© {year} - All Rights Reserved'
     license:

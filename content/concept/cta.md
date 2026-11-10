@@ -24,11 +24,11 @@ The main objective of AGINPLACE is to <b>promote the individual and social well-
 <li><b>O6.</b> To integrate multi-modalities (such as the speech and the user behavior pattern, cameras will not be included because most users used refuse them) in an AI based system to supervise the user’s emotional states introducing multimodal feature fusion level, and decision level fusion.</li>
 <li><b>O7.</b> To analyze the feasibility, implementation and approach of efficacy and costeffectiveness of both real-time and predictive analytics mental health applications.</li>
 <p></p>
-The fiGure below shows the mapping of the six WPs into the four proposed stages and through the two approaches: testing innovative technologies and prototypes in three labs, and those validated by the stakeholders adding AI techniques with long-term follow-up data in three living labs.  
+The figure below shows the mapping of the six WPs into the four proposed stages and through the two approaches: testing innovative technologies and prototypes in three labs, and those validated by the stakeholders adding AI techniques with long-term follow-up data in three living labs.  
 </ul>
 <p></p>
 <center> 
-<img src="AGIN.png" style="max-width:600px;width:100%">
+<img src="AGIN_WP.png" style="max-width:600px;width:100%">
 </center>
 </div>
 
