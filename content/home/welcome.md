@@ -8,9 +8,9 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 active: true
 title: |
-  <p>AGINGPLACE</p>
-subtitle: Proyectos PID2023-146254OB-C41 y PID2023-146254OA-C44 financiados por MICIU/AEI/10.13039/501100011033 y por FEDER/UE.
-image_title: AGINGPLACE_logo.png
+  <p>AGINPLACE</p>
+subtitle: Grants PID2023-146254OB-C41, PID2023-146254OB-C42, PID2023-146254OB-C43 and PID2023-146254OA-C44 funded by MICIU/AEI/10.13039/501100011033 and by FEDER/UE.
+image_title: AGINPLACE_logo.png
 image_height: 300px
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
