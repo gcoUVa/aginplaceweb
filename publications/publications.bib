@@ -33,7 +33,7 @@
   abstract = {Emotion Recognition (ER) has gained significant attention due to its importance in advanced human-machine interaction and its widespread real-world applications. In recent years, research on ER systems has focused on multiple key aspects, including the development of high-quality emotional databases, the selection of robust feature representations, and the implementation of advanced classifiers leveraging AI-based techniques. Despite this progress in research, ER still faces significant challenges and gaps that must be addressed to develop accurate and reliable systems. To systematically assess these critical aspects, particularly those centered on AI-based techniques, we employed the PRISMA methodology. Thus, we include journal and conference papers that provide essential insights into key parameters required for dataset development, involving emotion modeling (categorical or dimensional), the type of speech data (natural, acted, or elicited), the most common modalities integrated with acoustic and linguistic data from speech and the technologies used. Similarly, following this methodology, we identified the key representative features that serve as critical emotional information sources in both modalities. For acoustic, this included those extracted from the time and frequency domains, while for linguistic, earlier embeddings and the most common transformer models were considered. In addition, Deep Learning (DL) and attention-based methods were analyzed for both. Given the importance of effectively combining these diverse features for improving ER, we then explore fusion techniques based on the level of abstraction. Specifically, we focus on traditional approaches, including feature-, decision-, DL-, and attention-based fusion methods. Next, we provide a comparative analysis to assess the performance of the approaches included in our study. Our findings indicate that for the most commonly used datasets in the literature: IEMOCAP and MELD, the integration of acoustic and linguistic features reached a weighted accuracy (WA) of 85.71% and 63.80%, respectively. Finally, we discuss the main challenges and propose future guidelines that could enhance the performance of ER systems using acoustic and linguistic features from speech.}
 }
 @ARTICLE{11122668,
-  author={Paddy Junior, Asiimwe and Enrique Díez, Luis and Bahillo, Alfonso and Steven Eyobu, Odongo},
+  author={Paddy Junior, Asiimwe and Díez, Luis Enrique and Bahillo, Alfonso and Steven Eyobu, Odongo},
   journal={IEEE Transactions on Instrumentation and Measurement}, 
   title={ML-Driven User Activity-Based GNSS Activation for Power Optimization in Resource-Constrained Environments}, 
   year={2025},
@@ -171,4 +171,39 @@
   ISBN={9798331571429}, 
   DOI={10.1109/C366505.2025.11340110}, 
 }
-
+@INPROCEEDINGS{hernandez26,
+  author={Hernández, Claudia and Quintero, Victor and Collazoz, César and Bahillo, Alfonso and Miramá, Victor},
+  booktitle={11 Jornadas Iberoamericanas de Interacción Humano - Computadora 2025}, 
+  title={Bibliometric Analysis of Technologies Focused on Older Adults and Diabetes Management: A Human-Computer Interaction Approach}, 
+  year={2025},
+  volume={1},
+  number={},
+  pages={47-58},
+  url={http://148.217.50.3/jspui/bitstream/20.500.11845/4179/1/11JIHC25_proceedings_Vol1.pdf}
+}
+@phdthesis{lazaro25,
+  author = {Lazaro Alvarez Arteaga, Marcos},
+  title = {Urinary flow estimation through sound-based uroflowmetry and machine learning},
+  school = {Universidad de Deusto},
+  year = {2025},
+  month = {December},
+  type = {PhD Thesis},
+  note = {Co-supervisors: Alfonso Bahillo and Laura Arjona. Grade: Sobresaliente. Defense date: 19/12/2025},
+  abstract={This doctoral thesis explores an innovative and non-invasive approach for evaluating lower urinary tract function (LUTS), known as Sound-based Uroflowmetry (SU). Unlike traditional uroflowmetry (UF), which requires specialized clinical equipment, SU analyzes audio signals captured during urination and uses artificial intelligence (AI) techniques to estimate key urodynamic parameters. This approach leverages commonly available consumer audio devices such as smartphones and smartwatches making it a low-cost, portable and home-friendly solution.
+The research is structured into four interrelated studies, each designed to address a fundamental challenge in urinary flow estimation through acoustic analysis and machine learning (ML). The methodology relies on a composite dataset that includes both real and simulated urination sound recordings, carefully labeled and processed to train various regression and classification models.
+The first study validates the feasibility of SU as a practical alternative to in-clinic UF. A total of 50 healthy male volunteers aged 18–60 were recruited, with 47 valid recordings analyzed after excluding noisy or unclear cases. During each session, participants urinated into a clinically certified Minze uroflowmeter while the audio was simultaneously recorded using three devices: a high-fidelity microphone (Ultramic384), a smartphone and a smartwatch. The results showed mean absolute errors (MAE) of less than 3 ml/s for flow rate estimation and Lin's concordance coefficients above 0.9 for flow rate and 0.85 for voided volume (VV). These findings support the use of accessible devices for reliable urinary parameter estimation outside clinical settings.
+The second study addresses a major limitation in SU research: the lack of real, labeled and balanced datasets due to ethical and logistical challenges. To overcome this, a synthetic dataset of voiding sounds was created using a precision peristaltic pump that generated flows from 1 to 50 ml/s in 1 ml/s increments. The recordings, made under controlled conditions, used the same three devices from the first study and mimicked realistic bathroom environments. This dataset enables training of robust and reproducible models, filling a critical gap in the field and promoting methodological transparency.
+The third study investigates the generalization ability of ML models that is, their performance on real-world data after training on synthetic data. Algorithms including random forest (RF), support vector machines and convolutional neural networks were evaluated for both regression and classification tasks. Among these, RF showed the best performance on synthetic data and was selected for partial retraining using real SU recordings from the first study. Post-retraining, the RF model achieved MAE values below 2.5 ml/s and a weighted kappa above 0.86, validating the synthetic-to-real transfer approach and demonstrating its practical feasibility.
+The fourth study addresses a practical challenge in SU: the difficulty many users, particularly elderly patients, face in maintaining a continuous urine stream directed at the toilet water. Frequently, the stream hits ceramic surfaces instead, altering the acoustic signature and causing estimation errors. To improve accuracy, a supervised classifier was developed to automatically detect the type of impact surface (water, ceramic or silence) based on frequency-domain features. An additional analysis was conducted after filtering out frequencies below 8 kHz to evaluate the method in privacy-sensitive applications. The classifier reached an accuracy of 99.46%, greatly enhancing the reliability of downstream flow estimation models.
+Overall, this thesis establishes a robust methodological framework for SU using ML, addressing signal variability, demonstrating accuracy across multiple devices, introducing a publicly available synthetic dataset and incorporating privacy-aware acoustic analysis. The findings contribute to the development of affordable, accessible and privacy-preserving home-based urinary care systems. Despite current limitations related to device heterogeneity and acoustic variability, this work provides a meaningful foundation for advancing remote LUTS diagnosis and digital health innovation.},
+  url={https://deustoteka.deusto.es/items/90844a00-5eb3-4255-ade7-4955160e7c62},
+}
+@INPROCEEDINGS{Perez26,
+  author={Perez, M. Carmen and Robles, M. and Hernández, Álvaro and García, A. and Franco, M.A. and Bahillo, Alfonso and Diez, Luis Enrique},
+  booktitle={EUCOMS}, 
+  title={Detecting Behavioral Changes via Multimodal Home Monitoring: A Longitudinal Study in an Older Adult}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={},
+}
