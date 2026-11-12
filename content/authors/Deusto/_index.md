@@ -5,7 +5,7 @@ stud:
 # Is this the primary user of the site?
 superuser: false
 
-weight: 3
+weight: 4
 
 # Role/position
 role: <a href="https://www.deusto.es/en/home/we-are-deusto/team/researchers/1695/investigador">Luis Enrique Díez Blanco</a> <br> Subproject - Privacy-preserving sound-based health-monitoring tools to facilitate non-collaborative people with mental health disorders to live autonomously Ref. PID2023-146254OA-C44

@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Instituto de Investigación Biomédica de Salamanca (Universidad de Salamanca)
+title: Facultad de Psicología (Universidad de Salamanca)
 stud:
 # Is this the primary user of the site?
 superuser: false
 
-weight: 3
+weight: 2
 
 # Role/position
 role: <a href="https://produccioncientifica.usal.es/investigadores/57640/detalle">Manuel Ángel Franco Martín</a> <br> Subproject - Implementation patient centered of technology for supporting community care and monitoring on site. Ref. PID2023-146254OB-C42
@@ -15,7 +15,7 @@ role: <a href="https://produccioncientifica.usal.es/investigadores/57640/detalle
 #  - name: Stanford University
 #    url: ''
 
-externalLink: "https://produccioncientifica.usal.es/"
+externalLink: "https://psicologia.usal.es/"
 openExternalLinkInNewTab: false
 
 # Social/Academic Networking

@@ -15,7 +15,7 @@ role: <a href="https://investigacion.uva.es/SPPC/researcher?lang=es&researcherId
 #  - name: Stanford University
 #    url: ''
 
-externalLink: "https://gco.uva.es/"
+externalLink: "https://gco.tel.uva.es/es/"
 openExternalLinkInNewTab: false
 
 # Social/Academic Networking
