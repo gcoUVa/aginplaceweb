@@ -10,6 +10,6 @@ On Thursday, 15 May 2025, Alfonso Bahillo (Universidad de Valladolid) presented 
 The presentation showcased research results developed at the Universidad de Valladolid within the AGINPLACE project. 
 
 
-More details:https://lr.aeu.es/capitulo.aspx?id=151
+More details: https://lr.aeu.es/capitulo.aspx?id=151
 <!--more-->
 

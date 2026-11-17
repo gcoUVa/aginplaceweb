@@ -12,6 +12,6 @@ The thesis explores an innovative and non-invasive approach for evaluating lower
 The presentation showcased research results developed in collaboration between Universidad de Valladolid and University of Deusto within the AGINPLACE project. 
 
 
-More details:https://deustoteka.deusto.es/items/90844a00-5eb3-4255-ade7-4955160e7c62/full
+More details: https://deustoteka.deusto.es/items/90844a00-5eb3-4255-ade7-4955160e7c62/full
 <!--more-->
 
