@@ -1,5 +1,5 @@
 ---
-title:The subproject UAH (Universidad de Álcalá) participates in IPIN 2026
+title: The subproject UAH (Universidad de Álcalá) participates in IPIN 2026
 date: 2026-10-05
 draft: false
 abstract: "Researchers from the AGINPLACE-UAH subproject presented two contributions at IEEE International Conference on Indoor Positioning and Indoor Navigation (IPIN 2026) held from 5-8 October, advancing the development of unobtrusive localization technologies for people monitoring."
